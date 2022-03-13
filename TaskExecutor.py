@@ -1,4 +1,4 @@
-# The following class defines a TaskExecutor object 
+# The following class defines TaskExecutor object 
 class TaskExecutor():
 
  def __init__(self):
