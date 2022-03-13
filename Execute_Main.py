@@ -28,5 +28,5 @@ if __name__ == "__main__":
          t(status = 'pending', priority = '5', tasks = bSubTasks , name = 'b'),
          t(status = 'pending', priority = '8', tasks = cSubTasks , name = 'c'),
          t(status = 'pending', priority = '6', tasks = dSubTasks , name = 'd') ]
-         #t(status = 'pending', priority = '6', tasks = aSubTasks , name = 'd') ]   # uncomment for testing cycle pointer
+         #t(status = 'pending', priority = '6', tasks = aSubTasks , name = 'd') ]   #uncomment for testing cycle pointer
     e.executeMain(l, 'A')
