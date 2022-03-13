@@ -1,4 +1,4 @@
-# The following class defines a Task object 
+# The following class defines Task object 
 class Task:
 
   isChecked = False
