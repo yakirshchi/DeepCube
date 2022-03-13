@@ -12,7 +12,6 @@
 Notes: Kindly notice the testing example in the script, showing 4 tasks named ('a','b','c','d') each one with 3 dependant subtasks. you can manually change the option parameter ('A'/'B'), add additional sub-subtask, direct to existing subtasks (cycle) and run to see the results. 
 
 Thank you for taking the time reviewing my assignment :)
-
 Yakir Shchigelski.
 
  
